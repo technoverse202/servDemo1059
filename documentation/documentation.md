@@ -1,0 +1,2 @@
+<%=generalConfig.versionControlName%>
+<%=serviceDetails.description%>
